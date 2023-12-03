@@ -10,7 +10,7 @@ terraform {
   cloud {
     organization = "terraform-beginner-bootcamp-20234"
     workspaces {
-      name = "terra-house-24"
+      name = "terra-house-2"
     }
   }
   required_providers {
